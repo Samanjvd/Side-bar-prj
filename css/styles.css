@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+li.list-item {
+    list-style-type: none;
+    padding: 20px;
+}
+.sideBar {
+    width: 13rem;
+    height: 23rem;
+    background-color: snow;
+}
+ul.list-sidebar {
+    padding: 10px 20px 0 20px;
+}
